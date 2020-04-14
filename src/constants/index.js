@@ -1,1 +1,1 @@
-export const API_URL = "http://localhost:8000/api/todo_list/";
+export const API_URL = "http://api.domoreshit.com/api/todo_list/";
